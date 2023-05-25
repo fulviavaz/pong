@@ -1,4 +1,4 @@
-# pong
+# pong game
 
 ##Projeto desenvolvido com o auxílio das IA´s
 Chat GPT e Github Copilot
