@@ -8,4 +8,6 @@ Chat GPT e Github Copilot
 ##Project developed with the help of AI's
 Chat GPT and Github Copilot
 
+Techs: JavaScript | HTML | CSS
+
 Deploy: https://fulviavaz.github.io/pong/
